@@ -1,7 +1,7 @@
-import numpy as np
-import pandas as pd
-import zipfile
-from bs4 import BeautifulSoup as bs
-from splinter import Browser
-from pyvirtualdisplay import Display
-import io
+numpy
+pandas
+zipfile
+bs4
+Browser
+Display
+io
