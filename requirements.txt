@@ -1,6 +1,5 @@
 numpy
 pandas
-zipfile
 bs4
 Browser
 Display
