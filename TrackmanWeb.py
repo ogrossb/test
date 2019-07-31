@@ -16,7 +16,7 @@ def GetTrackmanLogs():
 
     with Display():
         # Create Browser
-        browser = Browser('firefox')
+        browser = Browser('chrome')
 
         # Login
         log_url = 'https://trackman.zendesk.com/auth/v2/login/signin'
