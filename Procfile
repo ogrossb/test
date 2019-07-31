@@ -1,1 +1,1 @@
-web: gunicorn rossbtest:app
+web: gunicorn app:rossbtest
