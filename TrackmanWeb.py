@@ -6,11 +6,11 @@ Scrapes trackman daily status page and returns all tables in a packaged zip file
 """
 import numpy as np
 import pandas as pd
-#import zipfile
+import zipfile
 from bs4 import BeautifulSoup as bs
 from splinter import Browser
 from pyvirtualdisplay import Display
-#import io
+import io
 
 def GetTrackmanLogs():
 
